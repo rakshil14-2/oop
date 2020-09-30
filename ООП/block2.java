@@ -30,8 +30,10 @@ public class block2{
                 System.out.println(number8(sc));
                 break;
             case "9":
+                System.out.println(number9(sc));
                 break;
             case "10":
+                System.out.println(number10(sc));
                 break;
         }
     }
